@@ -19,7 +19,7 @@ jobs:
 
       - run: yarn install --immutable
 
-      - run: yarn workspace eslint-config npm publish
+      - run: yarn workspace @nzws/eslint-config npm publish
         env:
           AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
@@ -37,6 +37,6 @@ jobs:
 
       - run: yarn install --immutable
 
-      - run: yarn workspace eslint-config npm publish
+      - run: yarn workspace @nzws/prettier-config npm publish
         env:
           AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
