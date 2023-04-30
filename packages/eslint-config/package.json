@@ -2,6 +2,9 @@
   "name": "@nzws/eslint-config",
   "license": "MIT",
   "version": "2.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "eslint": "8"
   },
