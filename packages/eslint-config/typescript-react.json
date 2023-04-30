@@ -1,0 +1,9 @@
+{
+  "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/eslintrc.json",
+  "extends": [
+    "./shared/base-javascript.jsonc",
+    "./shared/base-typescript.jsonc",
+    "./shared/environment-react.jsonc",
+    "./shared/post-apply.jsonc"
+  ]
+}

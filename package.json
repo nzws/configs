@@ -1,0 +1,21 @@
+{
+  "name": "configs",
+  "packageManager": "yarn@3.5.0",
+  "license": "MIT",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "format": "prettier --write --cache .",
+    "lint": "prettier --check --cache ."
+  },
+  "devDependencies": {
+    "@nzws/prettier-config": "workspace:*",
+    "prettier": "2.8.8",
+    "turbo": "1.9.3"
+  },
+  "prettier": "@nzws/prettier-config"
+}

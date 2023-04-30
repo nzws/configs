@@ -1,0 +1,7 @@
+{
+  "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/eslintrc.json",
+  "extends": [
+    // https://github.com/prettier/eslint-config-prettier
+    "prettier"
+  ]
+}

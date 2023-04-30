@@ -1,0 +1,9 @@
+{
+  "name": "@nzws/prettier-config",
+  "license": "MIT",
+  "version": "2.0.0",
+  "main": ".prettierrc.json",
+  "peerDependencies": {
+    "prettier": "2"
+  }
+}
