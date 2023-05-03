@@ -2605,19 +2605,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@trpc/client@npm:10.23.0":
-  version: 10.23.0
-  resolution: "@trpc/client@npm:10.23.0"
+"@trpc/client@npm:10.23.1":
+  version: 10.23.1
+  resolution: "@trpc/client@npm:10.23.1"
   peerDependencies:
-    "@trpc/server": 10.23.0
-  checksum: ab5c4e62f152a28b3c9b6f8c6579e637ce16442ac6f29d8e6f8dd338e2da77eb386ad40113877dcf5471596d5c70eabc7083831c739842cdb05ca8c6735cf664
+    "@trpc/server": 10.23.1
+  checksum: b14b9d5a4c1e571e4a6b8069a1c26c849b91f2ee643caff49e3cbd5504c48ad48c521e75d404d10b3aeb90688bb376171dadcd6c8f91f423079175258756bd6b
   languageName: node
   linkType: hard
 
-"@trpc/server@npm:10.23.0":
-  version: 10.23.0
-  resolution: "@trpc/server@npm:10.23.0"
-  checksum: 4736ec890e1904730eb7498d27845291bebdbdb5395699d309f140ad0ef58e93dead4def72d101318124d95d999e62bcee98543ff6869554732e73f7da685b94
+"@trpc/server@npm:10.23.1":
+  version: 10.23.1
+  resolution: "@trpc/server@npm:10.23.1"
+  checksum: df16846c5736a198f19652dd188ce8e034dafdf44045e7c4b87a985d029047ccf82a66c34137f77eb2c862ed81bf1600e56e93cf8649f494b18d650c800a755a
   languageName: node
   linkType: hard
 
@@ -6301,8 +6301,8 @@ __metadata:
   resolution: "example-typescript-nodejs@workspace:apps/example-typescript-nodejs"
   dependencies:
     "@nzws/eslint-config": "workspace:*"
-    "@trpc/client": 10.23.0
-    "@trpc/server": 10.23.0
+    "@trpc/client": 10.23.1
+    "@trpc/server": 10.23.1
     "@tsconfig/node18": 2.0.0
     "@types/node": ^18.16.3
     eslint: 8.39.0
