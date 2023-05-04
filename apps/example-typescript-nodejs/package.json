@@ -18,8 +18,8 @@
     "extends": "@nzws/eslint-config/typescript-nodejs"
   },
   "dependencies": {
-    "@trpc/client": "10.23.1",
-    "@trpc/server": "10.23.1",
+    "@trpc/client": "10.24.0",
+    "@trpc/server": "10.24.0",
     "zod": "3.21.4"
   }
 }
