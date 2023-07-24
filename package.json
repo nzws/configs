@@ -15,7 +15,7 @@
   "devDependencies": {
     "@nzws/prettier-config": "workspace:*",
     "prettier": "2.8.8",
-    "turbo": "1.10.9"
+    "turbo": "1.10.10"
   },
   "prettier": "@nzws/prettier-config"
 }
