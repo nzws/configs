@@ -1,0 +1,3 @@
+{
+  "extends": "@nzws/eslint-config/typescript-next"
+}

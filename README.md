@@ -1,6 +1,6 @@
 # configs
 
-My best & simple configs for Typescript projects.
+My best & simple configs for TypeScript projects.
 
 ## Prettier
 
@@ -37,7 +37,7 @@ Add to your `package.json`:
 {
   # ...
   "eslintConfig": {
-    "extends": "@nzws/eslint-config/typescript-nodejs" # Example for TypeScript+Node.js
+    "extends": "@nzws/eslint-config/typescript-nodejs" # Example for TypeScript + Node.js
   }
 }
 ```
@@ -46,3 +46,4 @@ Add to your `package.json`:
 
 - `@nzws/eslint-config/typescript-nodejs`: TypeScript + Node.js
 - `@nzws/eslint-config/typescript-react`: TypeScript + React
+- `@nzws/eslint-config/typescript-next`: TypeScript + Next.js
