@@ -3045,19 +3045,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*":
+"@types/node@npm:*, @types/node@npm:20.8.7":
   version: 20.8.7
   resolution: "@types/node@npm:20.8.7"
   dependencies:
     undici-types: ~5.25.1
   checksum: 2173c0c03daefcb60c03a61b1371b28c8fe412e7a40dc6646458b809d14a85fbc7aeb369d957d57f0aaaafd99964e77436f29b3b579232d8f2b20c58abbd1d25
-  languageName: node
-  linkType: hard
-
-"@types/node@npm:20.5.9":
-  version: 20.5.9
-  resolution: "@types/node@npm:20.5.9"
-  checksum: 717490e94131722144878b4ca1a963ede1673bb8f2ef78c2f5b50b918df6dc9b35e7f8283e5c2a7a9f137730f7c08dc6228e53d4494a94c9ee16881e6ce6caed
   languageName: node
   linkType: hard
 
@@ -6709,7 +6702,7 @@ __metadata:
   resolution: "example-typescript-next@workspace:apps/example-typescript-next"
   dependencies:
     "@nzws/eslint-config": "workspace:*"
-    "@types/node": 20.5.9
+    "@types/node": 20.8.7
     "@types/react": 18.2.18
     "@types/react-dom": 18.2.7
     eslint: 8.48.0
